@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     
-    def inoder(self,root:TreeNode):
+    def postoder(self,root:TreeNode):
 #   traveling postorder traversal
         if root is None:
             return
@@ -19,7 +19,7 @@ class Solution:
         
     
     def invertTree(self, root: TreeNode) -> TreeNode:
-        self.inoder(root)
+        self.postoder(root)
         return root
 
         
