@@ -7,7 +7,7 @@
 class Solution:
     
     def inoder(self,root:TreeNode):
-#   traveling inorder traversal
+#   traveling postorder traversal
         if root is None:
             return
         root.left and self.inoder(root.left)
