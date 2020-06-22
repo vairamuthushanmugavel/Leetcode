@@ -18,4 +18,3 @@
 |[338](https://leetcode.com/problems/counting-bits/)|Counting Bits|[python](May%20LeetCoding%20Challenge/May%2028/solution.py)|_O(n)_|_O(n)_|
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|[python](May%20LeetCoding%20Challenge/May%2029/solution.py)|_O(n)_|_O(n)_|
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|[python](May%20LeetCoding%20Challenge/May%2030/solution.py)|_O(n)_|_O(n)_|
-|[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|[python](May%20LeetCoding%20Challenge/May%2030/solution.py)|_O(n)_|_O(n)_|
