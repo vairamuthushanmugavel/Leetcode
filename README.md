@@ -1,2 +1,3 @@
-# Leetcode
-Leetcode monthly challenges 
+# [Leetcode](https://leetcode.com/)
+* Leetcode Monthly challenges
+
