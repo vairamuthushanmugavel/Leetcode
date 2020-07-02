@@ -18,3 +18,10 @@
 |[338](https://leetcode.com/problems/counting-bits/)|Counting Bits|[python](May%20LeetCoding%20Challenge/May%2028/solution.py)|_O(n)_|_O(n)_|
 |[207](https://leetcode.com/problems/course-schedule/)| Course Schedule|[python](May%20LeetCoding%20Challenge/May%2029/solution.py)|_O(n)_|_O(n)_|
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|[python](May%20LeetCoding%20Challenge/May%2030/solution.py)|_O(n)_|_O(n)_|
+
+
+## [July  LeetCoding Challenge ](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/)
+
+| #            |title               |  solution             | Time           | space          | Difficulty          |
+|-------------:|--------------------:|:---------------------:|:--------------:|:--------------:|:-------------------:|
+|[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|[python](July%20Leetcoding%20Challenge/day1/solution.py) | _O(1)_| _O(1)_ | Easy |
