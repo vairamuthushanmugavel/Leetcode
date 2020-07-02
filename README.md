@@ -24,4 +24,4 @@
 
 | #            |title               |  solution             | Time           | space          | Difficulty          |
 |-------------:|--------------------:|:---------------------:|:--------------:|:--------------:|:-------------------:|
-|[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|[python](July%20Leetcoding%20Challenge/day1/solution.py) | _O(1)_| _O(1)_ | Easy |
+|[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|[python](July%20Leetcoding%20Challenge/day%201/solution.py) | _O(1)_| _O(1)_ | Easy |
