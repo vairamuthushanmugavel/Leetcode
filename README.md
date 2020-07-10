@@ -30,3 +30,4 @@
 |[461](https://leetcode.com/problems/hamming-distance/)| Hamming Distance|[python](July%20Leetcoding%20Challenge/day%205/solution.py)|_O(n)_|_O(n)_| Easy |
 |[66](https://leetcode.com/problems/plus-one/)|  Plus One | [python](July%20Leetcoding%20Challenge/day%206/solution.py)|_O(1)_| _O(1)_ | Easy |
 |[463](https://leetcode.com/problems/island-perimeter/)|   Island Perimeter | [python](July%20Leetcoding%20Challenge/day%207/solution.py)|_O(n)_|_O(n)_| Easy |
+|[16](https://leetcode.com/problems/3sum/)| 3Sum | [python](July%20Leetcoding%20Challenge/day%208/solution.py)|_O(n^2)_|_O(n)_| Medium |
