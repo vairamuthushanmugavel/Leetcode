@@ -23,7 +23,7 @@
 ## [July  LeetCoding Challenge ](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/)
 
 | #            |title               |  solution             | Time           | space          | Difficulty          |
-|-------------:|--------------------:|:---------------------:|:--------------:|:--------------:|:-------------------:|
+|-------------:|--------------------|:---------------------:|:--------------:|:--------------:|:-------------------:|
 |[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|[python](July%20Leetcoding%20Challenge/day%201/solution.py) | _O(1)_| _O(1)_ | <span style="color:green"> Easy </span> |
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Binary Tree Level Order Traversal II|[python](July%20Leetcoding%20Challenge/day%202/solution.py)|_O(n)_|_O(1)_|<span style="color:green"> Easy</span> |
 |[957](https://leetcode.com/problems/prison-cells-after-n-days/)| Prison Cells After N Days | [python](July%20Leetcoding%20Challenge/day%203/solution.py)|_O(n)_|_O(n)_|<span style="color:orange;">Medium</span>|
