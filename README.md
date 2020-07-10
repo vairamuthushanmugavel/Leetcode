@@ -28,3 +28,4 @@
 |[107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|Binary Tree Level Order Traversal II|[python](July%20Leetcoding%20Challenge/day%202/solution.py)|_O(n)_|_O(1)_|<span style="color:green"> Easy</span> |
 |[957](https://leetcode.com/problems/prison-cells-after-n-days/)| Prison Cells After N Days | [python](July%20Leetcoding%20Challenge/day%203/solution.py)|_O(n)_|_O(n)_|<span style="color:orange;">Medium</span>|
 |[461](https://leetcode.com/problems/hamming-distance/)| Hamming Distance|[python](July%20Leetcoding%20Challenge/day%205/solution.py)|_O(n)_|_O(n)_| Easy |
+|[66](https://leetcode.com/problems/plus-one/)|  Plus One | [python](July%20Leetcoding%20Challenge/day%206/solution.py)|_O(1)_| _O(1)_ | Easy |
